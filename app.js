@@ -1,3 +1,5 @@
+// some changes
+
 function decoder(encodedMessage){
     let key = 5;
     let decodedMessage = "";
